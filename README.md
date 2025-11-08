@@ -31,7 +31,15 @@
 ---
 
 ## 🧠 Currently Learning
-   Verilog HDL (till expert level)
+Verilog HDL (till expert level)
+
+---
+
+## 🚀 Check Out My Latest Project
+### 🔹 [Arithmetic Logic Unit (ALU)](https://github.com/NavneetGedia/ArithmeticLogicUnit)
+An **8-bit ALU** built using **Verilog HDL** and simulated in **Xilinx Vivado**.  
+It performs arithmetic and logical operations such as addition, subtraction, multiplication, division, shifts, rotates, AND, OR, XOR, NOR, NAND, XNOR, and comparison.  
+This project demonstrates the design and simulation of a combinational logic circuit used in CPUs.
 
 ---
 
